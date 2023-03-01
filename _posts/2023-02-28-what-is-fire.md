@@ -15,6 +15,7 @@ tags:
   - blog
   - financial independence
   - retire early
+  - starting post
 author: manfredi miraula
 paginate: true
 ---
