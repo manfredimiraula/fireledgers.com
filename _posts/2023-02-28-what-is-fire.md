@@ -5,8 +5,8 @@ title: Why FIRE?
 subtitle: 'The basics of FIRE. Why, why not'
 description: >-
   The first blog post related to FIRE. What is it and the boundaries of the concept
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1506079212/jekflix-capa_vfhuzh.png
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1506079212/jekflix-capa_vfhuzh.png
+image: https://pixabay.com/photos/tree-sunset-clouds-sky-silhouette-736885/
+optimized_image: https://pixabay.com/photos/tree-sunset-clouds-sky-silhouette-736885/
 category: blog
 tags:
   - fire

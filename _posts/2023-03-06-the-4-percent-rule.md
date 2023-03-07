@@ -6,9 +6,9 @@ subtitle: 'One of the foundational rule for FIRE'
 description: >-
   The first blog post related to FIRE. What is it and the boundaries of the concept
 image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
+  https://pixabay.com/photos/landscape-mountain-peak-summit-5585247/
 optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
+  https://pixabay.com/photos/landscape-mountain-peak-summit-5585247/
 category: blog
 tags:
   - fire
